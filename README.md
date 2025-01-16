@@ -1,2 +1,2 @@
-# 2024-projet-final-GUISSÉ-TABARA
+# 2024-final-project-GUISSÉ-TABARA
 To run the files, please decompress the project.zip 
