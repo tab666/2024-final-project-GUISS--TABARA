@@ -1,2 +1,2 @@
 # Linguistic-project
-To find the files, decompress the archive.zip 
+To run the files, please decompress the archive.zip 
